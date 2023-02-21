@@ -2,7 +2,7 @@
 
 :kissing_heart:Here is a code programmer from Guangdong, China
 
-:wink: kissing_heart:You are welcome to contact me through the email on the home page
+:wink:You are welcome to contact me through the email on the home page
 <div align="center">
   <br>
   <br>
