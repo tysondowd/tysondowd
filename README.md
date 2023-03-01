@@ -1,6 +1,6 @@
 # Welcome to My Homepage
 
-:kissing_heart:Here is a code programmer from Guangdong, China
+:kissing_heart:Here is a from Guangdong, China
 
 :wink:You are welcome to contact me through the email on the home page
 <div align="center">
