@@ -1,8 +1,9 @@
-# Welcome to My Homepage
+# Welcome to My Personal Github Page
 
-:kissing_heart:Here is a from Guangdong, China
+Most of the time I will use this from Singapore.  
 
-:wink:You are welcome to contact me through the email on the home page
+You are welcome to contact me via discussions or issues!  I'm easy enough to find in the internet too.
+
 <div align="center">
   <br>
   <br>
