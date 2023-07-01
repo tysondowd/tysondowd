@@ -1,0 +1,17 @@
+{
+    "description": "This is the first exhibition",
+    "images": [
+        {
+            "url": "exhibition/01/image1.jpg",
+            "alt": "A beautiful landscape",
+            "caption": "A serene mountain scene",
+            "title": "Mountain Serenity"
+        },
+        {
+            "url": "exhibition/01/image2.jpg",
+            "alt": "A stunning sunset",
+            "caption": "A dramatic city sunset",
+            "title": "City Sunset"
+        }
+    ]
+}
