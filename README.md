@@ -4,13 +4,19 @@ Most of the time I will use this from Singapore.
 
 You are welcome to contact me via discussions or issues!  I'm easy enough to find in the internet too.
 
-# My Image Gallery
 
-| ![Image 1](image1.jpg) | ![Image 2](image2.jpg) |
-|:----------------------:|:----------------------:|
-|       Image 1         |       Image 2          |
+# Exhibition 1
 
+This is the first exhibition
 
-![Image 1](image1.jpg)
-![Image 2](image2.jpg)
+### Mountain Serenity
 
+![A beautiful landscape](exhibition/01/image1.jpg)
+
+A serene mountain scene
+
+### City Sunset
+
+![A stunning sunset](exhibition/01/image2.jpg)
+
+A dramatic city sunset
